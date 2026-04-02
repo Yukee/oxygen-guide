@@ -1,0 +1,5 @@
+feedback*
+*html
+!website/**/*.html
+!website/*.html
+**DS_Store

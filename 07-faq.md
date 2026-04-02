@@ -2,125 +2,95 @@
 
 ---
 
-## Is oxygen safe to use every day?
+## Safety and Efficacy
 
-Yes. Sessions under an hour pose very little risk of oxygen toxicity. Oxygen toxicity is a concern for patients on continuous high-concentration oxygen for many hours or days — not for someone breathing oxygen for 15–30 minutes to abort a cluster headache attack.
+### Is oxygen safe to use every day?
 
-During an active cluster cycle, you may use oxygen multiple times a day, every day, for weeks. This is fine. There are no known cumulative side effects from repeated short sessions. The only practical concern is having enough supply on hand.
+Yes. Oxygen toxicity — which can cause coughing and chest discomfort — is typically only a concern after 12+ hours of continuous use, far longer than the 15–30 minutes of a typical abort session. Even sessions of 1–2 hours carry minimal risk.
 
-## How long does a tank last?
+During an active cluster cycle, you may use oxygen multiple times a day, every day, for weeks. There are no known cumulative side effects from repeated short sessions. The only practical concern is having enough supply on hand.
 
-This depends on the tank size and your flow rate. Here's the rough math:
+### Is it dangerous to have oxygen tanks at home?
 
-| Tank size | Capacity | At 15 L/min | At 25 L/min |
-|-----------|----------|-------------|-------------|
-| **E** (portable) | ~680 litres | ~45 minutes | ~27 minutes |
-| **M** (standard home) | ~3,000 litres | ~3.3 hours | ~2 hours |
-| **H/K** (large home) | ~6,900 litres | ~7.5 hours | ~4.5 hours |
+No — with basic precautions. Oxygen doesn't burn or explode, but it makes things around it burn faster and hotter. The safety rules are simple:
 
-If you average 15 minutes per attack at 15 L/min, an M tank gives you roughly 13 attacks before it needs refilling. At higher flow rates, it's less. This is why having at least two tanks and tracking your usage matters.
+- Keep tanks at least 5–10 feet (2–3 meters) from heat, open flame, stoves, or anything that produces sparks.
+- Do not smoke near oxygen tanks or while using oxygen.
+- Store tanks upright and secured so they can't fall over.
+- Keep them in a ventilated area — not a sealed closet or car trunk.
 
-**Tip:** your regulator has a pressure gauge. Learn to read it. When the needle drops to the lower third, it's time to call for a refill — not when it hits zero.
+Millions of people use home oxygen safely every day. Fire departments are familiar with home oxygen setups and consider them low-risk when these guidelines are followed.
 
-## Can I use oxygen for migraine?
+### What if oxygen doesn't work for me?
+
+Before concluding that oxygen doesn't work, check every link in the chain: flow rate (at least 15 L/min), mask type (non-rebreather or demand valve), mask seal (no gaps), timing (starting at the first sign of an attack), and breathing technique. The [Using oxygen effectively](06-using-oxygen.md) page has a detailed troubleshooting checklist.
+
+The majority of patients who think oxygen doesn't work have an equipment or technique issue that can be fixed. If you've truly optimized everything and it still doesn't help, discuss alternative options with your neurologist.
+
+### Why doesn't my doctor know about this?
+
+Cluster headache is rare — it affects roughly 1 in 1,000 people. A typical GP may see only a handful of cluster headache patients in their entire career. Oxygen therapy for cluster headaches is not widely taught in medical schools, even though it's been used since the 1950s and is endorsed by every major guideline.
+
+This isn't because oxygen is unproven — it's because cluster headache is rare, and medical education focuses on more common conditions. The evidence supporting oxygen is among the strongest in headache medicine. The [Getting a prescription](03-getting-a-prescription.md) page has specific talking points and study references you can share with your doctor.
+
+## Equipment
+
+### How long does a tank last?
+
+It depends on the tank size and your flow rate. See the [equipment page](04-equipment.md) for a full comparison table. As a quick guide: an M-size tank at 15 L/min lasts about 3.3 hours — roughly 13 attacks of 15 minutes each. At higher flow rates, it's less. This is why having at least two tanks matters.
+
+**Tip:** your regulator has a pressure gauge — a round dial that shows how much oxygen is left. A full tank typically reads around 2,000 PSI (pounds per square inch). When the needle drops below about 500 PSI, call for a refill — don't wait until it hits zero.
+
+### Non-rebreather mask vs. demand valve — which should I choose?
+
+**Start with a demand valve if you can get one.** It delivers 100% oxygen, wastes none between breaths, and is strongly preferred by experienced patients. The main barrier is cost ($300–500 upfront) and availability. See the [equipment page](04-equipment.md) for full details on both options, including a comparison table.
+
+The short version: a demand valve delivers 100% oxygen and was preferred by 62% of patients in the only head-to-head clinical trial (Petersen et al., 2017). If cost is a concern, a non-rebreather mask (a plastic face mask with a reservoir bag underneath and one-way valves) with the side holes taped shut is a solid option. Either is far better than a simple mask or nasal cannula.
+
+### Can I use an oxygen concentrator instead of tanks?
+
+Not recommended as your primary setup. Most home concentrators produce 90–95% oxygen at 5–10 L/min — below what you need. See the [equipment page](04-equipment.md#other-oxygen-sources) for a full explanation. If a concentrator is your only option, use the highest-flow model you can find and pair it with a tight-fitting mask — but treat it as a bridge to proper tank-based oxygen.
+
+## Access and Cost
+
+### What if my insurance denies coverage?
+
+Many initial denials are overturned on appeal. The [Getting a prescription](03-getting-a-prescription.md) page has a detailed walkthrough of the appeal process, including peer-to-peer reviews and escalation options. The short version: get the denial in writing, appeal with the American Headache Society (AHS) guideline and the 2009 *Journal of the American Medical Association* (JAMA) trial attached — search for "American Headache Society cluster headache treatment guidelines 2016" and "Cohen et al high-flow oxygen cluster headache JAMA 2009" to find these documents. Don't go without treatment while the paperwork processes — consider paying a supplier directly or using welding-grade oxygen as a stopgap (see the [Getting a Prescription page](03-getting-a-prescription.md#if-you-cant-get-a-prescription)).
+
+### Is welding oxygen safe?
+
+Welding oxygen is the same oxygen molecule as medical oxygen. The difference is regulatory — medical oxygen has stricter quality controls. In practice, contamination is rare. See the [Getting a prescription](03-getting-a-prescription.md#welding-oxygen) page for details on risks and how to do it safely. The short version: use a dedicated oxygen-only tank, a proper CGA 540 oxygen regulator, and buy from a reputable supplier.
+
+### Can I fly with oxygen?
+
+You cannot bring your own compressed oxygen tanks on a commercial airplane. See the [Getting your oxygen](05-working-with-suppliers.md#flying) page for full details. In brief: arrange oxygen at your destination beforehand, and consider a portable oxygen concentrator (POC) for the flight itself — most airlines allow them with 48 hours' notice (call the airline's special assistance desk). A POC won't deliver enough flow for a full abort, but it's better than nothing mid-flight.
+
+## Combinations
+
+### Can I combine oxygen with other treatments?
+
+This comes up often. Here's what patients and researchers report:
+
+- **Oxygen + triptans:** Triptans (such as sumatriptan) are prescription medications commonly used to treat cluster headache attacks. Using oxygen and a triptan during the same attack is generally safe. However, if you take triptans more than about 10 days per month, they can cause medication-overuse headache (rebound headache). If you find you're using both regularly, discuss this with your neurologist — oxygen alone, without the rebound risk, may be the better long-term approach.
+- **Oxygen + caffeine:** Many patients drink a strong coffee or energy drink at the start of an attack alongside oxygen. This is anecdotal — there are no clinical trials — but it's widespread in patient communities and some patients report it helps.
+- **Oxygen + DMT:** DMT (N,N-Dimethyltryptamine) is a controlled substance in most countries and not a standard or first-line treatment. Some patients report that inhaled DMT can abort attacks, but this carries significant legal and safety risks. If you're interested in learning more, we have a separate DMT guide — but discuss all treatment options with your doctor first.
+
+### Can I use oxygen for migraine?
 
 The evidence for oxygen in migraine is much weaker than for cluster headache. Some small studies suggest it may help certain migraine patients, but the results are inconsistent and no major guideline recommends it for migraine.
 
 If you have both cluster headache and migraine, oxygen may work for your cluster attacks but not necessarily for your migraines. Try it and see, but don't be surprised if the migraine response is different.
 
-## What if my insurance denies coverage?
+## Practical Situations
 
-If your initial request is denied:
+### What about attacks that wake me up at night?
 
-1. **Get the denial in writing** — you need the specific reason.
-2. **Appeal with documentation.** Attach: the AHS evidence-based guidelines (Level A recommendation for oxygen), the Cohen et al. 2009 trial from *JAMA*, and a letter from your doctor explaining medical necessity.
-3. **Ask your doctor to do a peer-to-peer review.** This is a phone call between your doctor and the insurance company's medical reviewer. It's often more effective than paper appeals.
-4. **Contact your state insurance commissioner** (in the US) if appeals fail. In some states, patient advocates can help.
-5. **Consider alternative access** while you fight the appeal — welding oxygen, a different supplier, or out-of-pocket purchase. Don't go without treatment while the paperwork processes.
+Nocturnal attacks are extremely common in cluster headache — many patients report their worst attacks happen during sleep. Here's how to prepare:
 
-Many initial denials are overturned on appeal. Persistence matters.
-
-## Is welding oxygen safe?
-
-Welding oxygen is chemically identical to medical oxygen — it's the same molecule (O₂). The difference is in the regulatory chain: medical oxygen is produced, stored, and tracked under stricter quality controls to prevent contamination.
-
-In practice, contamination in welding oxygen is rare, and roughly 12% of US cluster headache patients who use oxygen report using welding-grade. If you go this route:
-
-- Use a **dedicated tank** that has only ever been filled with oxygen (not a tank previously used for acetylene or other gases).
-- Use a proper **CGA 540 oxygen regulator** — not a regulator designed for other gases.
-- Buy from a reputable welding supply shop and ask about their filling process.
-
-Welding oxygen is a reasonable last-resort option if you can't get a prescription, can't afford medical oxygen, or need emergency backup. It's not ideal, but it's far better than going without oxygen entirely.
-
-## Can I fly with oxygen?
-
-You cannot bring your own compressed oxygen tanks on a commercial aeroplane. Airlines classify them as hazardous materials.
-
-Your options when flying:
-
-- **Arrange oxygen at your destination.** Contact a medical oxygen supplier in the city you're travelling to before your trip. Your doctor can fax or email a prescription. Some companies specialise in temporary or vacation oxygen setups.
-- **Portable oxygen concentrators (POCs)** are allowed on most airlines with advance approval (usually 48 hours notice). However, most POCs only deliver 1–5 L/min in continuous mode, which is well below what you need for a full abort. Some patients carry a POC as partial relief — it's better than nothing mid-flight.
-- **Airline-provided supplemental oxygen** is available on some carriers for a fee, but it's low-flow and not designed for cluster headache use.
-
-If you're in an active cluster cycle, flying requires serious advance planning. Contact your airline, your insurance, and an oxygen supplier at your destination well before your travel date.
-
-## Non-rebreather mask vs. demand valve — which should I choose?
-
-**Start with a demand valve if you can get one.** It delivers 100% oxygen, wastes none between breaths, and is strongly preferred by experienced patients. The main barrier is cost ($300–500 upfront) and availability.
-
-Here's the detailed comparison:
-
-| | Non-rebreather mask | Demand valve |
-|---|---|---|
-| **Oxygen purity** | ~80–90% (room air leaks in) | 100% |
-| **Oxygen efficiency** | Continuous flow; oxygen flows even when you exhale | On-demand; oxygen only flows when you inhale |
-| **Cost** | $2–5 each (disposable) | $300–500 one-time |
-| **Ease of use** | Simple — put it on | Simple once set up; slightly more hardware |
-| **Patient preference** | Lower | 62% preferred DVO in the Petersen et al. trial |
-| **Rescue medication needed** | 50% (simple mask) | 23% (DVO) |
-| **Availability** | Everywhere | May need to purchase separately; NHS provides for chronic CH (UK) |
-
-If cost is a concern: a non-rebreather mask with the side holes taped shut is a solid option that many patients use successfully. The difference between a well-sealed NRM and a demand valve is real but not enormous — either is far better than a simple mask or nasal cannula.
-
-## Can I combine oxygen with other treatments?
-
-This comes up often. Here's what patients and researchers report:
-
-- **Oxygen + caffeine:** Many patients drink a strong coffee or energy drink at the start of an attack alongside oxygen. This is anecdotal — there are no clinical trials — but it's widespread in patient communities and some patients report it helps.
-- **Oxygen + DMT:** Some patients use inhaled DMT for attacks where speed is critical and oxygen for routine attacks. The two treatments work through different mechanisms and do not interact. See our [DMT guide](index.html) for details.
-- **Oxygen + triptans:** This is a combination some doctors prescribe, but it's worth noting that frequent triptan use can cause medication-overuse headache (rebound headaches). If you find you're using both oxygen and triptans regularly, discuss this with your neurologist — oxygen alone, without the rebound risk, may be the better long-term approach.
-
-## Why doesn't my doctor know about this?
-
-Cluster headache is rare — it affects roughly 0.1% of the population, or about 1 in 1,000 people. A typical GP may see only a handful of cluster headache patients in their entire career. Oxygen therapy for cluster headaches is not widely taught in medical schools, even though it's been used since the 1950s and is endorsed by every major guideline.
-
-This is frustrating, but it's the reality. The good news is that the evidence is strong and freely available. The [Getting a prescription](03-getting-a-prescription.md) page has specific talking points and study references you can share with your doctor.
-
-## Can I use an oxygen concentrator instead of tanks?
-
-It's possible but not recommended as your primary setup. Most home oxygen concentrators produce 90–95% oxygen at 5–10 L/min — below the 15+ L/min of 100% oxygen that works best for cluster headaches.
-
-Some patients do use concentrators, particularly when:
-- They're in a location where tank delivery isn't available
-- They want a backup for when tanks run out
-- They live in a country where concentrators are more accessible than medical gas
-
-If a concentrator is your only option, use the highest-flow model you can find and pair it with a tight-fitting mask. But treat it as a bridge to proper tank-based oxygen, not a permanent solution.
-
-## What if oxygen doesn't work for me?
-
-Before concluding that oxygen doesn't work, check every link in the chain:
-
-1. **Flow rate:** Are you at 15 L/min or higher? If your regulator only goes to 8, that's the problem.
-2. **Mask type:** Are you using a non-rebreather mask with reservoir bag (or a demand valve)? A simple mask or nasal cannula won't work.
-3. **Mask seal:** Is the mask pressed firmly to your face with no gaps? Is room air leaking in through the side holes?
-4. **Timing:** Are you starting oxygen at the very first sign of an attack? Starting late dramatically reduces effectiveness.
-5. **Duration:** Are you breathing for at least 15 minutes before giving up?
-6. **Breathing technique:** Are you breathing deeply? Have you tried the hyperventilation approach?
-
-The [Using oxygen effectively](06-using-oxygen.md) page covers all of these in detail. The majority of patients who think oxygen doesn't work have an equipment or technique issue that can be fixed.
-
-If you've truly optimised everything and oxygen still doesn't help, it may not be the right treatment for you — and that's OK. Discuss alternative abortive options with your neurologist.
+- **Keep a tank at your bedside.** Your oxygen should be within arm's reach. During a cycle, leave the setup fully assembled — regulator attached, mask connected, flow rate pre-set. All you need to do is open the valve and put on the mask.
+- **Sleep with your equipment accessible.** Some patients sleep propped up or in a recliner during bad cycles, which makes it easier to get on oxygen quickly.
+- **Consider a demand valve for nighttime use** — it delivers oxygen immediately on inhale with no reservoir bag to wait for.
+- **The earlier you catch it, the better.** Some patients learn to recognize the attack starting in their sleep and wake themselves. Over time, this becomes instinctive.
 
 ---
 

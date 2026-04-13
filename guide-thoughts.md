@@ -4,8 +4,9 @@ Necessary-and-sufficient conditions for finding relief from oxygen (conjunctive)
 1. Being aware of the effectiveness of oxygen
    1. **→ guide disseminated as widely as possible**
 2. Having an effective setup
-   1. **→ patients are encouraged to be persistent**
-   2. **→ patients know which parameters to experiment with**
+   1. **→ patients understand that they have to breath as fast as possible / hyperventilate, and breath pure O2**
+   2. **→ patients are encouraged to be persistent**
+   3. **→ patients know which parameters to experiment with**
 3. Having (a prescription and private / insurance access) or a DIY setup
    1. **→ patients know exactly what to get**
    2. Find the right doctor
@@ -25,3 +26,15 @@ A **backfire risk** with oxygen: It prevents people from experimenting with some
 2. → The guide should frontload that patients should expect friction, and should encourage them to persevere.
    1. The path to expect could be something like: getting diagnosed → getting the prescription (knowing which equipment to get) → working with suppliers → using oxygen effectively.
 3. The bottlenecks are different depending on the region. This makes writing a short, impactful guide difficult.
+
+# Safety precautions
+
+Oxygen isn't flammable, but massively increases the flammability of flammable material (such as any organic material).
+Basically, oxygen makes any fire more powerful and potentially explosive. 
+Oxygen can turn a spark into a fully developed fire.
+
+Safety precautions:
+1. Never smoke around the oxygen tank, make sure nothing around it could produce sparks.
+2. Don't use lubricants in your oxygen setup. Some lubricants are flammable.
+3. Check that the tank is properly closed after every use.
+4. Make sure the tank cannot fall over (fall damage could cause a leak).

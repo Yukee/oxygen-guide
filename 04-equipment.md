@@ -86,7 +86,7 @@ In the only head-to-head clinical trial (Petersen et al., 2017), demand valves r
 
 **Pros:** 100% oxygen delivery, more efficient use of tank oxygen, supports aggressive breathing.
 
-**Cons:** More expensive upfront (roughly $300–500 for the valve and mask), requires a specific connection to the regulator, may need to be purchased separately. Search for "demand valve oxygen mask" at medical supply retailers or online medical equipment stores.
+**Cons:** More expensive upfront (roughly $250–400+ for the valve and mask), requires a specific connection to the regulator, may need to be purchased separately. Search for "demand valve oxygen mask" at medical supply retailers or online medical equipment stores.
 
 **Recommendation:** If you can get a demand valve — through your supplier, your insurance, or by purchasing one yourself — it's worth it. If not, a non-rebreather mask with the side holes taped shut is a solid fallback.
 
@@ -99,7 +99,7 @@ In the UK, demand valves are available on the NHS for patients with chronic clus
 | **Oxygen tank** | M or H size, at least 2 tanks | Only having one tank | Varies (often covered by insurance) |
 | **Regulator** | 0–25 L/min range, CGA 540 fitting | Getting a 0–8 L/min COPD regulator | $30–80 |
 | **Mask (NRM)** | Non-rebreather with reservoir bag | Simple face mask or nasal cannula | $2–5 each (keep spares) |
-| **Mask (DVO)** | Demand valve with face seal | — | $300–500 one-time |
+| **Mask (DVO)** | Demand valve with face seal | — | $250–400+ one-time |
 
 ## Safety basics
 

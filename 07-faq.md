@@ -43,7 +43,7 @@ It depends on the tank size and your flow rate. See the [equipment page](04-equi
 
 ### Non-rebreather mask vs. demand valve — which should I choose?
 
-**Start with a demand valve if you can get one.** It delivers 100% oxygen, wastes none between breaths, and is strongly preferred by experienced patients. The main barrier is cost ($300–500 upfront) and availability. See the [equipment page](04-equipment.md) for full details on both options, including a comparison table.
+**Start with a demand valve if you can get one.** It delivers 100% oxygen, wastes none between breaths, and is strongly preferred by experienced patients. The main barrier is cost ($250–400+ upfront) and availability. See the [equipment page](04-equipment.md) for full details on both options, including a comparison table.
 
 The short version: a demand valve delivers 100% oxygen and was preferred by 62% of patients in the only head-to-head clinical trial (Petersen et al., 2017). If cost is a concern, a non-rebreather mask (a plastic face mask with a reservoir bag underneath and one-way valves) with the side holes taped shut is a solid option. Either is far better than a simple mask or nasal cannula.
 

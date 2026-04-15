@@ -4,39 +4,38 @@
 
 If you're reading this page, you probably already know that high-flow oxygen can stop cluster headache attacks. But getting a prescription, finding a willing doctor, and navigating insurance can feel like an obstacle course, and for many patients, it's one they can't get past. A 2011 survey found that 41% of patients prescribed home oxygen were denied coverage by their insurers.[1] The cost of medical oxygen through a Durable Medical Equipment (DME) supplier (the companies that deliver medical oxygen to your home) can run $200–400 or more per month without insurance.
 
-Welding oxygen is the most common workaround. It's sold at welding supply shops across the country, requires no prescription, and costs a fraction of the medical route. The same survey found that 12% of US cluster headache patients were already using it.[1] On patient forums like ClusterBusters, members have discussed and used welding oxygen for over a decade.
+Welding oxygen is a common workaround. It's sold at welding supply shops, requires no prescription, and costs a fraction of the medical route. The same survey found that 12% of US cluster headache patients were using it.[1] On patient forums like ClusterBusters, members have discussed and used welding oxygen for over a decade.
 
 If the words "welding oxygen" make you nervous, that's understandable. By the end of this page, you'll know exactly what welding oxygen is, why it's safe, what equipment to buy, and how to set it up, step by step.
 
 
-## Is Welding Oxygen Safe to Breathe?
+## Welding Oxygen Is Generally Safe to Breathe
 
-Yes. Here's why.
+> **Diclaimer:** The below information applies to the US, Canada, Europe, and Australia/NZ. In other regions, oxygen may be less pure (90–95%; not a safety concern, but may reduce efficacy), and cylinder handling practices may be less tightly controlled. If you're sourcing welding oxygen outside of those regions, **research your supplier's production method** and pay particular attention to gas purity and cylinder integrity (whether the cylinder has been used for other gases or properly purged before filling).
+
 
 ### The gas is the same
 
-Both medical and welding oxygen are produced by the same industrial process: cryogenic fractional distillation of air. In many facilities, the gas comes from the **same bulk tank**. The difference between what's labeled "medical" and what's labeled "welding" is paperwork, not chemistry.
+Both medical and welding oxygen are produced by the same industrial process: cryogenic fractional distillation of air. In many facilities, the gas comes from the **same bulk tank**. The difference between what's labeled "medical" and what's labeled "welding" is mostly paperwork.
 
 Medical oxygen (USP grade) must be at least 99.0% pure. Welding oxygen, in practice, routinely tests at 99.5% or higher; modern air-separation plants simply don't have a separate "dirty" production line. As Francois Burman, a professional engineer at Divers Alert Network, concluded after investigating this question for scuba diving: **"Oxygen is oxygen, and if the purity exceeds 99 percent, it is safe for use where pure oxygen is required."**[2]
 
-The aviation and scuba diving communities reached the same conclusion years ago. The old distinction between "breathing grade" and "welding grade" traces back to decades-old compression methods that are no longer in use.
-
 ### No documented harm
 
-No adverse events from breathing welding oxygen appear in the medical literature, FDA databases, or patient community reporting. The 2011 survey found 12% of respondents using it;[1] a 2022 review of the full evidence base on oxygen therapy for headache disorders cited no case reports of harm from the practice.[3] ClusterBusters forum threads document patients using welding oxygen for years without adverse effects.[4][5] Absence of evidence isn't proof of safety, but the scale (a large survey, over a decade of forum history) makes serious unnoticed harm unlikely.
+No adverse events from breathing welding oxygen appear in the medical literature, FDA databases, or patient community reporting. 
+A 2022 review of the full evidence base on oxygen therapy for headache disorders cited no case reports of harm from the practice.[3] ClusterBusters forum threads document patients using welding oxygen for years without adverse effects.[4][5] The documented cylinder-related incidents in the FDA's records (gas mix-ups and solvent contamination) actually occurred with *medical* cylinders in medical settings, not with welding oxygen used by cluster headache patients or by divers.[6][7]
 
-### The real difference: the cylinder, not the gas
+### Cylinder handling
 
-Medical cylinders are cleaned, evacuated, and inspected before every refill under FDA rules. Welding cylinders are not subject to these rules; in theory, a welding cylinder could retain traces of previous contents or develop internal moisture over time. In practice, oxygen cylinders from reputable suppliers are dedicated to oxygen and handled carefully, because contamination is a safety risk for welding too. The documented cylinder-related incidents in the FDA's records (gas mix-ups and solvent contamination) actually occurred with *medical* cylinders in medical settings, not with welding oxygen used by patients at home.[6][7]
+Medical cylinders are cleaned, evacuated, and inspected before every refill under FDA rules. Welding cylinders are not subject to these rules; in theory, a welding cylinder could retain traces of previous contents or develop internal moisture over time. In practice, oxygen cylinders from reputable suppliers are dedicated to oxygen and handled carefully, because contamination is a safety risk for welding too. 
 
-Using a reputable supplier and an oxygen-dedicated cylinder addresses this concern.
+Although the risk is minimal, Cluster Headache Warriors recommends asking suppliers to purge the cylinder before filling, which clears any residual moisture or traces from previous contents.[8] Reputable suppliers do this routinely; asking doesn't hurt.
 
 ### Fire safety: the real risk (same for all oxygen)
 
-The most important safety consideration has nothing to do with whether your oxygen is labeled "medical" or "welding." **Oxygen makes things burn faster and hotter.** It doesn't burn on its own, but a spark that would fizzle in normal air can become a fully developed fire in an oxygen-enriched atmosphere. This is true of all oxygen, regardless of grade or label. The good news: millions of patients use oxygen at home safely by following simple rules. See the [Safety at Home](#safety-at-home) section below for the full list.
+The most important safety consideration has nothing to do with whether your oxygen is labeled "medical" or "welding." **Oxygen makes things burn faster and hotter.** It doesn't burn on its own, but a spark that would fizzle in normal air can become a fully developed fire in an oxygen-enriched atmosphere. This is true of all oxygen, regardless of grade or label. The good news: patients have used oxygen at home safely for years by following simple rules. See the [Safety at Home](#safety-at-home) section below for the full list.
 
 > **The bottom line:** Welding oxygen is the same gas as medical oxygen. The safety considerations (mainly fire risk) are the same too, and manageable with common-sense precautions.
-
 
 ## What You'll Need
 
@@ -50,7 +49,7 @@ The setup has four components:
 ![Annotated diagram showing a welding oxygen cylinder, regulator, tubing, and mask, with labels showing how they connect](images/illustration-welding-o2-equipment-overview.jpg)
 *The four components of a welding oxygen setup and how they connect.*
 
-That's it. The total cost to set up from scratch is roughly **$135–225**, depending on your choices. Ongoing costs are about **$35–65 per month** (cylinder rental plus refills). Compare that to $200–400+ per month through a DME supplier without insurance.
+The total cost to set up from scratch is roughly **$125–230**, depending on your choices. Ongoing costs are about **$35–65 per month** (cylinder rental plus one refill) — though during heavy cluster periods you may need multiple refills per week, which can push monthly costs above $100. Compare that to $200–400+ per month through a DME supplier without insurance.
 
 The following sections walk you through choosing and buying each component.
 
@@ -80,93 +79,85 @@ You'll need to either **rent** a cylinder or **buy one outright**. Some location
 
 Welding cylinders are sold by their capacity in **cubic feet (cf)**; you'd ask for a "size 80" or a "size 125" at the counter.
 
-**Get the largest cylinder you can realistically carry to your home.** A bigger cylinder means fewer refill trips and less chance of running out mid-cycle, which by wide community consensus is one of the worst things that can happen. The decision comes down to what you can physically handle: can you carry it up stairs? Does it fit in your car? An 80 cf cylinder weighs about 56 lbs (25 kg) and is manageable for most people. A 125 cf weighs about 75 lbs (34 kg). A 200 cf weighs about 128 lbs (58 kg) and needs a hand truck or cylinder cart.
+**Get the largest cylinder you can realistically carry to your home.** A bigger cylinder means fewer refill trips and less chance of running out mid-cycle. The decision comes down to what you can physically handle: can you carry it up stairs? Does it fit in your car? An 80 cf cylinder weighs about 56 lbs (25 kg) and is manageable for most people. A 125 cf weighs about 75 lbs (34 kg). A 200 cf weighs about 128 lbs (58 kg) and needs a hand truck or cylinder cart.
+
+**Keep at least two cylinders.** You want to avoid running out of oxygen during a cluster cycle. Many patients keep one large cylinder at home and a smaller portable one (40 or 60 cf).
 
 Here are the most common sizes:
 
 | Size | Capacity | Height × diameter | Weight (full) | Approx. aborts* |
 |---|---|---|---|---|
-| 40 cf | ~1,133 liters | 17″ × 7″ | ~27 lbs (12 kg) | ~7 |
-| 80 cf | ~2,265 liters | 31″ × 7″ | ~56 lbs (25 kg) | ~15 |
-| 125 cf | ~3,540 liters | 42″ × 7″ | ~75 lbs (34 kg) | ~24 |
-| 200 cf | ~7,079 liters | 51″ × 9″ | ~128 lbs (58 kg) | ~47 |
+| 40 cf | ~1,133 liters | 17″ × 7″ | ~27 lbs (12 kg) | ~6 |
+| 80 cf | ~2,265 liters | 31″ × 7″ | ~56 lbs (25 kg) | ~11 |
+| 125 cf | ~3,540 liters | 42″ × 7″ | ~75 lbs (34 kg) | ~18 |
+| 200 cf | ~7,079 liters | 51″ × 9″ | ~128 lbs (58 kg) | ~35 |
 
-*Approximate number of 10-minute aborting attempts at 15 LPM (150 liters each).
-
-All standard welding oxygen cylinders use the **CGA 540** valve connection, a large threaded post. As long as your regulator says "CGA 540" on the packaging, it will fit any standard welding oxygen cylinder. Note: the small portable oxygen tanks used in hospitals (D and E tanks) use a different connection called **CGA 870**, which is incompatible with welding cylinders. Don't buy a regulator designed for those.
+*Approximate number of 10-minute aborting attempts at 20 LPM (200 liters each).
 
 ![Visual comparison of 40, 80, 125, and 200 cubic-foot oxygen cylinders standing next to a person silhouette for scale](images/illustration-cylinder-size-comparison.jpg)
 *Cylinder size comparison. The 80 and 125 cf sizes are the most popular for home use. The 200 cf holds far more gas but requires a cart.*
 
-**Keep at least two cylinders.** Running out of oxygen during a cluster cycle is something patients consistently describe as one of the worst things that can happen. Most patients keep one large cylinder at home and, if budget allows, a smaller portable one.
+### Step 3: Choose how you'll breathe the oxygen
 
-### Step 3: Get a regulator
+Your delivery method determines what regulator you'll need in the next step, so choose this first. There are three options:
 
-Any regulator with a **CGA 540** inlet will fit any standard welding oxygen cylinder. There are two types:
+- **Demand valve** (~$250–400+): Expensive, but often considered the best option. It delivers oxygen on demand (as much as you can inhale) and shuts off automatically between breaths, so no oxygen is wasted. A demand valve typically requires a regulator with a **DISS outlet** (see Step 4).
+  - Example: [Life Support L063-05R](https://www.amazon.com/Life-Support-Products-L063-05R-Demand/dp/B00K36ROVE).
+  - You'll need **oxygen tubing** (typically 5-foot length). If the demand valve doesn't come with it, purchase it separately, and make sure that it has the appropriate connection (typically, a DISS connection).
+- **ClusterO2 kit (formerly called *O2ptimask*)** (~$32 from [clusterheadaches.com](https://clusterheadaches.com/shop/index.php?app=ecom&ns=prodshow&ref=clustero2kit)): designed specifically for cluster headache patients. No side vents, tight seal. Commonly recommended on patient forums. Connects via standard oxygen tubing to a **barb outlet** on your regulator.
+- **Standard non-rebreather mask (NRB)** (~$5–10, widely available): functional, but has side vents by design. These vents are a safety feature (they prevent suffocation if oxygen runs out), but they also let room air in and dilute the oxygen concentration. Some patients tape over the vents to improve the seal. Connects via standard oxygen tubing to a **barb outlet**.
+  - Like the ClusterO2 kit, NRB masks come with a reservoir bag: a small balloon-like bag that hangs below the mask and collects oxygen between breaths so you have a full breath available when you inhale.
+  - You'll need **standard oxygen tubing** (typically 5-foot length, ~$5, widely available) to connect to a **barb outlet** on your regulator.
 
-**A standard welding regulator** (~$20–30) shows output pressure, not liters per minute. It's different from a medical regulator, but works fine too. You adjust the valve until the reservoir bag on your mask refills quickly enough that it never fully collapses when you inhale, even when you're breathing as fast and deep as you can. Two inexpensive (~$25), widely available options:
+### Step 4: Get a regulator
 
-- [IMAGE CGA 540 Welding Regulator](https://www.amazon.com/IMAGE-Welding-Welder-Regulator-Cutting/dp/B00JP9WIF2/)
-- [Yaetek CGA 540 Welding Regulator](https://www.amazon.com/Yaetek-Regulator-Cutting-0-200PSI-0-4000PSI/dp/B073P1C18S/)
+All standard welding oxygen cylinders use the **CGA 540** valve connection, a large threaded post. Any regulator with a **CGA 540 inlet** will fit. Your choice of regulator depends on your delivery method from Step 3.
 
-**A medical-style LPM regulator** has a dial calibrated in liters per minute, which lets you set a flow rate. **Make sure the regulator can output enough LPM** (minimum 20 LPM, ideally more), and has a CGA 540 inlet. Example: [Responsive Respiratory 25 LPM CGA 540 regulator](https://www.amazon.com/Regulator-CGA-540-Responsive-Respiratory-120-1205/dp/B07ZS9JK7P).
+**If you're using a mask** (ClusterO2 kit or NRB), you need a regulator with a **barb outlet**: a tapered, barbed fitting that standard oxygen tubing pushes onto. You have two sub-options:
 
-Whichever type you get, look for a **barb outlet** — a barbed fitting that lets you push standard oxygen tubing directly onto the regulator. Some regulators have a threaded "DISS" connector instead, which requires a small adapter. Either works, but a barb outlet is simpler.
+- **A standard welding regulator** (~$20–30) shows output pressure, not liters per minute. You adjust the valve until the reservoir bag on your mask refills quickly enough that it never fully collapses when you inhale, even when you're breathing as fast as you can. Two inexpensive (~$25), widely available options:
+  - [IMAGE CGA 540 Welding Regulator](https://www.amazon.com/IMAGE-Welding-Welder-Regulator-Cutting/dp/B00JP9WIF2/)
+  - [Yaetek CGA 540 Welding Regulator](https://www.amazon.com/Yaetek-Regulator-Cutting-0-200PSI-0-4000PSI/dp/B073P1C18S/)
+- **A medical-style LPM regulator** (more expensive and harder to find) has a dial calibrated in liters per minute, which lets you set a precise flow rate. We recommend you pick a regulator that can output **at least 25 LPM**. Check that the inlet is **CGA 540**.
 
-### Step 4: Get a mask
+**If you're using a demand valve**: Demand valves typically screw onto a threaded connector called a **DISS** (Diameter Index Safety System). This means you'll either need to buy:
 
-Your mask is how the oxygen reaches you. The right mask makes a surprising difference: a poor seal means you're breathing room air mixed with oxygen instead of pure O₂, which reduces effectiveness.
+- A connector with a **DISS outlet**. Example: [Responsive Respiratory 25 LPM CGA 540 regulator](https://www.amazon.com/Regulator-CGA-540-Responsive-Respiratory-120-1205/dp/B07ZS9JK7P).
+- A connector with a barbed outlet (see above) and a **barb-to-DISS adaptor**, such as [this one](https://www.wtfarley.com/DISS-Male-With-Quarter-Barb).
 
-Three options:
-
-- **O2ptimask** (~$25 from clusterheadaches.com): designed specifically for cluster headache patients. No side vents, tight seal, available in two sizes, with a mouth-tube option. This is the most commonly recommended mask on patient forums.
-- **Standard non-rebreather mask (NRB)** (~$5–10, widely available): functional, but has side vents by design. These vents are a safety feature (they prevent suffocation if oxygen runs out), but they also let room air in and dilute the oxygen concentration. Some patients tape over the vents to improve the seal. NRB masks come with a **reservoir bag**, a small balloon-like bag that hangs below the mask and collects oxygen between breaths so you have a full breath available when you inhale.
-- **Demand valve** (~$250–400+): delivers 100% O₂ on demand, as much as you can inhale, and shuts off automatically between breaths. No wasted gas, no waiting for a reservoir bag to refill. Expensive upfront, but uses oxygen far more efficiently, so cylinders last much longer.
-
-You'll also need **standard oxygen tubing** (typically 7-foot length, ~$5, widely available) to connect the regulator's outlet to the mask.
+**If you bought two cylinders** (a large one for home and a small portable one): we recommend buying a regulator and breathing equipment **for each**. For example, you could buy a demand valve for home, and a cheaper ClusterO2 kit for your portable cylinder.
 
 ### Step 5: Assemble and test
 
 Once you have all four components, setup takes about 10 minutes:
 
-1. **Secure the cylinder upright.** Chain or strap it to a wall, heavy furniture, or a cylinder cart ($30–60). A full cylinder is heavy, and a fall can shear off the valve, which can turn the cylinder into a dangerous projectile or cause a rapid gas leak.
+1. **Secure the cylinder upright.** Cylinders should always be secured so that they can't fall. A large, full cylinder is heavy, and a fall can shear off the valve, which can turn the cylinder into a dangerous projectile or cause a rapid gas leak. **When the cylinder is not in use**, disconnect the regulator and cap the valve to prevent accidental hits from damaging it.
 
 2. **Attach the regulator** to the CGA 540 valve. Hand-tighten first, then snug with an adjustable (crescent) wrench, firm but not forceful; stop when resistance increases and you can't easily turn further. The connection is metal-to-metal: no tape, no sealant, no grease. **Do not use any lubricant**: oil or grease near high-pressure oxygen is a fire and explosion hazard.
 
 3. **Open the cylinder valve slowly**: a quarter turn to start. Listen and feel around the connection for leaks. If you hear hissing, close the valve and reseat the regulator. Once the connection is secure, open the valve all the way for use.
 
-4. **Connect the tubing** from the regulator outlet to the mask.
+4. **Connect the tubing** from the regulator outlet to the mask. Again, use no lubricant.
 
 5. **Set the flow rate** on your LPM regulator (start at 15 LPM; adjust up to 25 LPM as needed). If you're using a welding regulator, adjust the valve until the reservoir bag fills quickly.
 
 6. **Test it.** Put the mask on and breathe. The reservoir bag should not fully collapse when you inhale; if it does, increase the flow rate.
 
+7. When you are done testing, **close the cylinder valve** and the regulator dial.
+
 **Reading the pressure gauge:** Your regulator has a gauge showing how much oxygen is left in the cylinder, measured in PSI. A full cylinder reads around 2,000–2,200 PSI. When it drops below 500 PSI, plan your next refill. Some patients report that oxygen seems to lose effectiveness in the last third of the tank, so don't wait until it's nearly empty. Never let it drop below 50 PSI before returning the cylinder; some positive pressure is needed to keep moisture and contaminants out.
 
-![Close-up of a CGA 540 regulator being attached to an oxygen cylinder valve, with annotations pointing to the connection, wrench position, and flow dial](images/illustration-regulator-assembly.jpg)
-*Attaching the regulator to the cylinder valve. Hand-tighten first, then snug with a wrench. No lubricant, ever.*
-
-
-## Breathing Technique
-
-Technique matters as much as equipment. Several patients who initially reported that "oxygen doesn't work" later found it highly effective once they changed how they breathed.
-
-- **Get on the oxygen at the very first sign of an attack.** The earlier you start, the faster the abort. Waiting reduces effectiveness.
-- **Breathe deeply and rapidly** at high flow (25 LPM). Take big, full breaths as fast as you comfortably can, filling your lungs completely each time, then exhaling forcefully and immediately inhaling again.
-- **The bag should never fully collapse** on inhalation. If it does, increase the flow rate.
-- **Stay on the oxygen for 5–10 minutes after the pain stops.** This is strong community consensus. Stopping immediately risks a rebound; the headache returns within minutes. The extra time on O₂ extends your pain-free window.
-
-For more detail on breathing techniques and the aborting protocol, see the [main oxygen guide](06-using-oxygen.md).
-
+![CGA 540 regulator on an oxygen cylinder, with annotations pointing to the valve, CGA 540 connection, pressure/flow dial, barbed outlet, and a wrench hovering nearby showing tightening direction](images/illustration-regulator-assembly.jpg)
+*Attaching the regulator to the cylinder valve. Hand-tighten first, then snug with a wrench. Ues no lubricant.*
 
 ## Safety at Home
 
-These rules apply to all oxygen, medical or welding. Post them somewhere visible near your cylinder.
+These rules apply to all oxygen, medical or welding.
 
 - **No smoking** near the cylinder or while wearing the mask.
-- **No open flames or sparks** nearby. Keep the cylinder away from stoves, heaters, candles, and anything that could spark.
+- **No open flames or sparks** nearby.
 - **No oil or grease** on the valve, regulator, or fittings; some lubricants are flammable, and combined with high-pressure oxygen, they're a fire and explosion risk.
-- **Store the cylinder upright, secured** with a chain, strap, or cart. A falling cylinder can shear off its valve, causing a dangerous leak or turning it into a projectile.
+- **Store the cylinder upright, secured**. A falling cylinder can shear off its valve, causing a dangerous leak or turning it into a projectile.
 - **Close the valve after every use.** Don't leave the cylinder open with only the regulator controlling flow. If a fitting fails, you'd release the entire tank into the room, creating an oxygen-enriched atmosphere and a fire hazard.
 - **Never return a completely empty cylinder.** Leave at least 50 PSI of positive pressure (your regulator gauge will show this). Without positive pressure, moisture and contaminants can enter the cylinder through the valve.
 - **Keep the valve cap on during transport.** It protects the valve from impact damage.
@@ -175,30 +166,21 @@ These rules apply to all oxygen, medical or welding. Post them somewhere visible
 ![Visual checklist of home oxygen safety rules: no smoking, secure upright, no oil on fittings, close valve after use, keep away from flames](images/illustration-welding-o2-safety.jpg)
 *Home safety rules for oxygen. These apply equally to medical and welding oxygen.*
 
-
-## Getting Refills
-
-- **Exchange model (rented cylinders):** Bring the empty to the supplier, swap for a full one. Takes minutes.
-- **Refill model (owned cylinders):** Drop off your cylinder, they fill it (sometimes while you wait, sometimes next business day). Cost: ~$20–40 per fill, depending on size.
-
-Cluster Headache Warriors recommends asking suppliers to vacuum-purge the cylinder before filling, which clears any residual moisture or traces from previous contents.[8] Many suppliers do this routinely; asking doesn't hurt.
-
-
 ## Cost Summary
 
 | Item | Approximate cost | Notes |
 |---|---|---|
-| Cylinder rental (monthly) | $10–25/month | Or buy outright for $100–200+ |
+| Cylinder rental (monthly) | $15–25/month | Or buy outright for $100–200+ |
 | Cylinder fill | $20–40 per fill | Depends on size |
-| CGA 540 regulator (0–25 LPM) | $40–70 | One-time purchase |
-| O2ptimask | ~$25 | Or standard NRB for ~$5 |
+| Regulator (CGA 540) | $20–70 | One-time; welding style ~$20–30, medical LPM ~$30–70 |
+| ClusterO2 kit | ~$32 | Or standard NRB for ~$5 |
 | Demand valve (optional upgrade) | $250–400+ | Most efficient O₂ use |
 | Oxygen tubing | ~$5 | Standard 7-foot |
 | Cylinder cart or strap | $30–60 | One-time; optional but recommended |
-| **Total first month** | **~$135–225** | |
-| **Ongoing monthly** | **~$35–65** | Rental + 1–2 refills |
+| **Total first month** | **~$125–230** | |
+| **Ongoing monthly** | **~$35–65** | Rental + 1 refill; heavy cycles cost more |
 
-Compare: medical oxygen through a DME supplier without insurance often costs **$200–400+ per month**.
+Compare: medical oxygen through a DME supplier without insurance often costs **$200–400+ per month**. During heavy cluster periods, you may need multiple refills per week, which can push ongoing welding oxygen costs above $100/month — still far less than the medical route.
 
 
 ## Tips from the Community

@@ -11,7 +11,7 @@ If the words "welding oxygen" make you nervous, that's understandable. By the en
 
 ## Welding Oxygen Is Generally Safe to Breathe
 
-> **Diclaimer:** The below information applies to the US, Canada, Europe, and Australia/NZ. In other regions, oxygen may be less pure (90–95%; not a safety concern, but may reduce efficacy), and cylinder handling practices may be less tightly controlled. If you're sourcing welding oxygen outside of those regions, **research your supplier's production method** and pay particular attention to gas purity and cylinder integrity (whether the cylinder has been used for other gases or properly purged before filling).
+> **Disclaimer:** The below information applies to the US, Canada, Europe, and Australia/NZ. In other regions, oxygen may be less pure (90–95%; not a safety concern, but may reduce efficacy), and cylinder handling practices may be less tightly controlled. If you're sourcing welding oxygen outside of those regions, **research your supplier's production method** and pay particular attention to gas purity and cylinder integrity (whether the cylinder has been used for other gases or properly purged before filling).
 
 
 ### The gas is the same
@@ -43,11 +43,8 @@ The setup has four components:
 
 1. **A cylinder**: the steel tank that holds the oxygen under pressure.
 2. **A regulator**: attaches to the cylinder valve and controls how fast the oxygen flows.
-3. **A mask**: covers your nose and mouth to deliver the oxygen.
-4. **Tubing**: a length of standard oxygen tubing connecting the regulator to the mask.
-
-![Annotated diagram showing a welding oxygen cylinder, regulator, tubing, and mask, with labels showing how they connect](images/illustration-welding-o2-equipment-overview.jpg)
-*The four components of a welding oxygen setup and how they connect.*
+3. **Breathing equipment**: delivers the oxygen to your mouth. This could be a demand valve, a ClusterO2 kit, or a basic non-rebreather mask. See details below.
+4. **Tubing**: a length of standard oxygen tubing connecting the regulator to the breathing equipment.
 
 The total cost to set up from scratch is roughly **$125–230**, depending on your choices. Ongoing costs are about **$35–65 per month** (cylinder rental plus one refill) — though during heavy cluster periods you may need multiple refills per week, which can push monthly costs above $100. Compare that to $200–400+ per month through a DME supplier without insurance.
 
@@ -109,6 +106,9 @@ Your delivery method determines what regulator you'll need in the next step, so 
   - Like the ClusterO2 kit, NRB masks come with a reservoir bag: a small balloon-like bag that hangs below the mask and collects oxygen between breaths so you have a full breath available when you inhale.
   - You'll need **standard oxygen tubing** (typically 5-foot length, ~$5, widely available) to connect to a **barb outlet** on your regulator.
 
+![Comparison of three breathing equipment options: demand valve (best), ClusterO2 kit (good), and non-rebreather mask (basic), each shown with mouthpiece and mask variants](images/illustration-breathing-equipment-comparison.jpg)
+*The three delivery options compared. The demand valve and ClusterO2 kit can be used with either a mouthpiece or a sealed mask. The non-rebreather mask typically isn't sealed: It has either side valves or sides holes to let out the air you breath out. It is recommended to close off side holes to prevent outside air from mixing with pure O2. Insets show the connector type each option requires on the regulator: a DISS fitting for the demand valve, or a barb fitting for the ClusterO2 kit and NRB.*
+
 ### Step 4: Get a regulator
 
 All standard welding oxygen cylinders use the **CGA 540** valve connection, a large threaded post. Any regulator with a **CGA 540 inlet** will fit. Your choice of regulator depends on your delivery method from Step 3.
@@ -127,6 +127,9 @@ All standard welding oxygen cylinders use the **CGA 540** valve connection, a la
 
 **If you bought two cylinders** (a large one for home and a small portable one): we recommend buying a regulator and breathing equipment **for each**. For example, you could buy a demand valve for home, and a cheaper ClusterO2 kit for your portable cylinder.
 
+![Side-by-side comparison of a welding regulator and a medical-style LPM regulator, with labeled parts](images/illustration-regulators-comparison.jpg)
+*The two regulator types. Left: a standard welding regulator with two pressure gauges and a barbed outlet for standard tubing. Right: a medical-style LPM regulator with a flow dial calibrated in liters per minute and a DISS outlet for demand valves. Both have a CGA 540 inlet that threads onto the cylinder valve.*
+
 ### Step 5: Assemble and test
 
 Once you have all four components, setup takes about 10 minutes:
@@ -139,7 +142,7 @@ Once you have all four components, setup takes about 10 minutes:
 
 4. **Connect the tubing** from the regulator outlet to the mask. Again, use no lubricant.
 
-5. **Set the flow rate** on your LPM regulator (start at 15 LPM; adjust up to 25 LPM as needed). If you're using a welding regulator, adjust the valve until the reservoir bag fills quickly.
+5. If you’re using an LPM regulator, **set the flow rate** (start at 15 LPM; adjust up to 25 LPM as needed). If you're using a welding regulator, **gradually turn open the pressure dial** until the reservoir bag fills quickly.
 
 6. **Test it.** Put the mask on and breathe. The reservoir bag should not fully collapse when you inhale; if it does, increase the flow rate.
 
@@ -187,12 +190,15 @@ Compare: medical oxygen through a DME supplier without insurance often costs **$
 
 Practical wisdom from patients who've been through this:
 
-1. **You burn through gas faster than you expect.** At 25 LPM, an 80 cf tank gives you about 90 minutes of total use. During heavy cluster periods, you may need multiple refills per week. This is why bigger cylinders are worth the effort.
+1. **You can burn through O2 faster than you expect.** At 25 LPM, an 80 cf tank gives you about 90 minutes of total use. During heavy cluster periods, you may need multiple refills per week. This is why bigger cylinders are worth the effort.
 
 2. **Set everything up before a cycle starts.** When an attack hits at 3 AM, you'll be in severe pain, possibly disoriented, fumbling in the dark. The last thing you want is to be assembling equipment for the first time. Set it up, test it, and keep the mask within arm's reach of your bed.
 
-3. **The mask matters more than you think.** A mask with a poor seal wastes oxygen and reduces effectiveness. Upgrading from a basic NRB to an O2ptimask or taping over the NRB's side vents is a meaningful improvement.
+3. **The breathing equipment matters.** A NRB mask with a poor seal wastes oxygen and reduces effectiveness. Upgrade from a basic NRB to a demand valve if you can afford it, or a ClusterO2 kit. As a cheaper alternative, consider taping over the NRB's side vents.
 
+4. **Check regularly that your oxygen setup works**. The last thing you want is a seal blowing out during an attack. Consider having spare parts in case something breaks.
+
+5. **Wash the breathing equipment (mask, mouthpiece or demand valve) in warm water with soap** every once in a while. This prevents dirt from acumulating and potentially messing up with the system.
 
 ---
 

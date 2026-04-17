@@ -46,7 +46,7 @@ The setup has four components:
 3. **Breathing equipment**: delivers the oxygen to your mouth. This could be a demand valve, a ClusterO2 kit, or a basic non-rebreather mask. See details below.
 4. **Tubing**: a length of standard oxygen tubing connecting the regulator to the breathing equipment.
 
-The total cost to set up from scratch is roughly **$125–230**, depending on your choices. Ongoing costs are about **$35–65 per month** (cylinder rental plus one refill) — though during heavy cluster periods you may need multiple refills per week, which can push monthly costs above $100. Compare that to $200–400+ per month through a DME supplier without insurance.
+The total cost to set up from scratch is roughly **$125–230** with a mask, or **$375–600+** if you opt for a demand valve. Ongoing costs are about **$35–65 per month** (cylinder rental plus one refill) — though during heavy cluster periods you may need multiple refills per week, which can push monthly costs above $100. Compare that to $200–400+ per month through a DME supplier without insurance.
 
 The following sections walk you through choosing and buying each component.
 
@@ -180,7 +180,8 @@ These rules apply to all oxygen, medical or welding.
 | Demand valve (optional upgrade) | $250–400+ | Most efficient O₂ use |
 | Oxygen tubing | ~$5 | Standard 7-foot |
 | Cylinder cart or strap | $30–60 | One-time; optional but recommended |
-| **Total first month** | **~$125–230** | |
+| **Total first month (mask)** | **~$125–230** | With ClusterO2 kit or NRB |
+| **Total first month (demand valve)** | **~$375–600+** | With demand valve |
 | **Ongoing monthly** | **~$35–65** | Rental + 1 refill; heavy cycles cost more |
 
 Compare: medical oxygen through a DME supplier without insurance often costs **$200–400+ per month**. During heavy cluster periods, you may need multiple refills per week, which can push ongoing welding oxygen costs above $100/month — still far less than the medical route.

@@ -1,0 +1,123 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "ClusterBusters" [ref=e5] [cursor=pointer]:
+          - /url: https://clusterbusters.org
+          - img "ClusterBusters" [ref=e6]
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Existing user? Sign In " [ref=e9] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/login/
+              - text: Existing user? Sign In
+              - generic [ref=e10]: 
+            - text: 
+          - listitem [ref=e11]:
+            - link "Sign Up" [ref=e12] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/register/
+        - text: 
+    - navigation [ref=e13]:
+      - generic [ref=e14]:
+        - list [ref=e15]:
+          - listitem [ref=e16]:
+            - link "Browse" [ref=e17] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/
+              - text: Browse
+            - list [ref=e18]:
+              - listitem [ref=e19]:
+                - link "Forums" [ref=e20] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/
+              - listitem [ref=e21]:
+                - link "Staff" [ref=e22] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/staff/
+              - listitem [ref=e23]:
+                - link "Online Users" [ref=e24] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/online/
+              - listitem [ref=e25]:
+                - link "Leaderboard" [ref=e26] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/leaderboard/
+              - text: 
+          - listitem [ref=e27]:
+            - link "Activity" [ref=e28] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/discover/
+            - text: 
+          - listitem [ref=e29]:
+            - link "Leaderboard" [ref=e30] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/leaderboard/
+          - text: 
+        - generic [ref=e33]:
+          - searchbox "Search" [ref=e34]
+          - group [ref=e35]:
+            - generic "Everywhere" [ref=e36] [cursor=pointer]
+            - text: 
+          - button "Search" [ref=e37] [cursor=pointer]:
+            - generic [ref=e38]: 
+    - text:  
+  - main [ref=e39]:
+    - generic [ref=e41]:
+      - navigation [ref=e42]:
+        - list [ref=e43]:
+          - listitem [ref=e44]:
+            - link "All Activity" [ref=e45] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/discover/
+              - generic [ref=e46]: 
+              - text: All Activity
+        - list [ref=e47]:
+          - listitem [ref=e48]:
+            - link "Home" [ref=e49] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/
+      - generic [ref=e50]:
+        - link "New Users - Please Read Here First " [ref=e53] [cursor=pointer]:
+          - /url: https://clusterbusters.org/forums/announcement/7-new-users-please-read-here-first/
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - paragraph [ref=e56]: Oops!
+            - generic [ref=e57]: You do not have permission to view this topic.
+            - separator [ref=e58]
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - link "Contact Us" [ref=e61] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/contact/
+              - listitem [ref=e62]:
+                - link "Existing user? Sign In" [ref=e63] [cursor=pointer]:
+                  - /url: https://clusterbusters.org/forums/login/
+          - paragraph [ref=e64]:
+            - text: "Error code:"
+            - strong [ref=e65]: 2F173/H
+      - navigation [ref=e66]:
+        - list [ref=e67]:
+          - listitem [ref=e68]:
+            - link "All Activity" [ref=e69] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/discover/
+              - generic [ref=e70]: 
+              - text: All Activity
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - link "Home" [ref=e73] [cursor=pointer]:
+              - /url: https://clusterbusters.org/forums/
+  - contentinfo [ref=e74]:
+    - generic [ref=e75]:
+      - list [ref=e76]:
+        - listitem [ref=e77]:
+          - link "" [ref=e78] [cursor=pointer]:
+            - /url: https://www.facebook.com/clusterbusters
+            - generic [ref=e79]: 
+        - listitem [ref=e80]:
+          - link "" [ref=e81] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC3aHVinh6EXPrHHn70K0Bgw
+            - generic [ref=e82]: 
+        - listitem [ref=e83]:
+          - link [ref=e84] [cursor=pointer]:
+            - /url: https://x.com/Cluster_Buster
+      - list [ref=e86]:
+        - listitem [ref=e87]:
+          - link "Contact Us" [ref=e88] [cursor=pointer]:
+            - /url: https://clusterbusters.org/forums/contact/
+        - listitem [ref=e89]:
+          - link "Cookies" [ref=e90] [cursor=pointer]:
+            - /url: https://clusterbusters.org/forums/cookies/
+      - paragraph [ref=e91]:
+        - generic [ref=e92]: ©2020 Clusterbusters | The view, opinions, conclusions and other information expressed are not given or endorsed by Clusterbusters® unless otherwise indicated by an authorized representative independent of this message.
+        - link "Powered by Invision Community" [ref=e93] [cursor=pointer]:
+          - /url: https://www.invisioncommunity.com/
+  - text:    

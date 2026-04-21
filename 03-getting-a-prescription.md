@@ -1,105 +1,178 @@
 # Getting a Prescription
 
-In most countries, medical-grade oxygen requires a prescription. Oxygen is classified as a medical product in the US, UK, EU, Canada, Australia, and most other countries — whether your oxygen comes through insurance, the NHS, or a private supplier, you need a doctor's prescription. This section will help you get one, even if your doctor isn't familiar with oxygen therapy for cluster headaches.
+*What the prescription must say, how to talk to a doctor who isn't familiar with cluster headache, how to navigate insurance and suppliers, and what equipment to insist on.*
+
+In the US, UK, EU, Canada, Australia, and most other countries, medical oxygen is a prescription-only medication. Getting the right prescription is the access bottleneck for most patients — and it is routinely the slowest, most frustrating part of the whole journey. The good news: the guidelines are clear, the evidence is strong, and patients who know what to ask for get there faster.
 
 ---
 
-## What the prescription should say
+## What the prescription must contain
 
-A correct oxygen prescription for cluster headaches should include all of these elements:
+A correct prescription for cluster headache oxygen has six elements:
 
-- **100% oxygen** (not blended or low-concentration oxygen)
-- **High-flow delivery** — at least 15 liters per minute (L/min). Most patients find 15–25 L/min effective. Ask for a prescription allowing up to 25 L/min.
-- **Non-rebreather mask** (a plastic face mask with a reservoir bag underneath and one-way valves) **or demand valve** (a device that delivers oxygen only when you inhale) — not a nasal cannula (the plastic tube with two prongs that sits in your nostrils), not a simple face mask. These don't deliver enough oxygen.
-- **As needed for acute cluster headache attacks** — this means you can use it whenever an attack hits, not on a fixed schedule.
-- **Duration: 15–20 minutes per session** (or longer — sessions under an hour are very safe)
-- **Compressed gas cylinders** (not an oxygen concentrator — see the [equipment page](04-equipment.md) for why)
+1. **100% oxygen** — not blended, not low-concentration.
+2. **Flow rate: ask for the highest the prescriber will write.** Aim for **25 L/min**. **15 L/min is the bare minimum**, not the target. If your prescriber is willing, ask for up to 40 L/min or language like "flow as tolerated" to leave room for ultra-high flow. Do not accept 2–4 L/min (a COPD prescription) or 8–10 L/min.
+3. **Delivery device: non-rebreather mask or demand valve.** Not a nasal cannula. Not a simple (Hudson) face mask. Not pulse-dose.
+4. **Use as needed for acute cluster attacks.** Without this language, suppliers may ration your oxygen to a fixed schedule.
+5. **Session length: 15–20 minutes per attack.** (Sessions up to an hour are safe, so this should not be written as a hard ceiling.)
+6. **Compressed gas cylinders — not an oxygen concentrator.** Most concentrators max out around 5–10 L/min and cannot produce the flow rates needed to abort an attack.
 
-![What a correct oxygen prescription should include](images/illustration-correct-prescription.jpg)
-*The key elements of a cluster headache oxygen prescription. If any of these are missing or wrong, you may end up with equipment that doesn't work.*
+![Checklist of the elements a correct cluster headache oxygen prescription must contain](images/illustration-correct-prescription.jpg)
+*The six elements of a correct prescription. If the illustration shows a 15 L/min flow line, treat that as the floor — ask your prescriber for higher.*
 
-### Common prescription errors to watch for
+### Common prescription errors to catch
 
-- **Flow rate too low.** A prescription for "2–4 L/min" is for COPD patients, not cluster headache. You need at least 15 L/min.
-- **Nasal cannula instead of a mask.** Delivers only 25–40% oxygen — you need 80%+ from a non-rebreather or demand valve.
-- **Oxygen concentrator instead of tanks.** Most concentrators max out at 5–10 L/min. Insist on compressed gas.
-- **Missing "as needed" language.** Without it, a supplier may limit how much oxygen you receive.
+These errors are routine. Read what you're handed *before* you accept it.
 
-If your prescription doesn't look right, don't accept it silently. Show your doctor the correct specifications and ask them to revise it. You're not being difficult — you're preventing weeks of frustration with equipment that won't work.
+- **Flow rate written as the target instead of the floor.** A prescription that caps you at 15 L/min leaves you stuck even if you could tolerate and benefit from more. Ask for 25 L/min or "up to 40 L/min as tolerated."
+- **Nasal cannula.** Delivers 25–40% oxygen — not enough to abort an attack. You need a non-rebreather mask or demand valve.
+- **Oxygen concentrator instead of cylinders.** The supplier may prefer this (no refills) but most concentrators can't reach the flow you need.
+- **Missing "as needed" / PRN language.** Can cause the supplier to limit your supply.
+- **Short session duration (e.g., 10 minutes).** Some attacks need 15–20 minutes; the prescription should allow it.
 
-## Talking to your doctor
+If any of these appear, don't accept the prescription silently. Show your prescriber this checklist and ask for a revision. You're not being difficult — you're preventing weeks of wasted time with equipment that doesn't work.
 
-Many doctors — even neurologists — are not familiar with oxygen therapy for cluster headaches. Cluster headache affects roughly 0.1% of the population, and oxygen treatment is not widely taught in medical schools. You may need to educate your doctor. Here's how.
+---
 
-### Key talking points
+## Talking to a skeptical doctor
 
-**"Oxygen is recommended as a first-line treatment by every major guideline."**
+Cluster headache affects roughly 1 in 1,000 adults, and oxygen is not routinely taught in medical schools. Many GPs — and a surprising number of neurologists — have never prescribed it. You may need to supply the evidence yourself. These talking points work:
 
-- The **American Headache Society** (2016) gives it a **Level A recommendation** — the highest level, meaning the evidence is strong and consistent.
-- The **European Academy of Neurology** (2023) lists it as one of only two "strongly recommended" acute treatments (alongside subcutaneous sumatriptan).
-- **NICE** in the UK recommends 100% oxygen at a minimum of 12 L/min via non-rebreather mask (most patients benefit from 15 L/min or higher).
+**"Oxygen is first-line acute treatment in every major guideline."**
+
+- **American Headache Society:** Level A (highest evidence) recommendation for high-flow oxygen in acute cluster attacks.
+- **European Academy of Neurology (2023):** recommends 100% oxygen via non-rebreather mask at ≥12 L/min as one of only two strongly-recommended acute treatments (the other is subcutaneous sumatriptan).
+- **NICE (UK):** recommends 100% oxygen at a minimum of 12 L/min via non-rebreather mask. Most patients benefit from 15 L/min or higher — patient communities and clinical experience consistently favor higher flows.
 
 **"The clinical evidence is strong."**
 
-- A landmark clinical trial (published in the *Journal of the American Medical Association* in 2009) found that **78% of patients treated with oxygen were pain-free at 15 minutes**, compared to 20% with placebo air. This is one of the strongest treatment effects in headache medicine.
+- Cohen et al., *JAMA* 2009: a double-blind randomized trial of 109 cluster headache patients. **78% of attacks treated with 100% oxygen were pain-free at 15 minutes**, compared with 20% on sham air. This is one of the largest treatment effects in acute headache medicine.
+- Petersen et al., *Cephalalgia* 2017: a randomized crossover comparison of demand-valve oxygen vs. standard non-rebreather mask. Demand-valve users needed rescue medication in 23% of attacks vs. 50% with a standard mask, and 62% preferred the demand valve overall.
 
 **"It's extremely safe."**
 
-- No significant adverse events were reported in the Cohen trial or in subsequent reviews. The exposure time is short (15–60 minutes per session), far below the threshold for oxygen toxicity concerns.
+- The exposure per session is 15–60 minutes. Oxygen toxicity is a concern at many hours of continuous high-flow breathing, far beyond an abort session.
+- No significant adverse events in the Cohen trial or in subsequent reviews.
 
 ### If your doctor says no
 
-- **Ask for a referral to a neurologist or headache specialist.** GPs may not feel comfortable prescribing something outside their usual scope. A headache specialist will almost certainly know about oxygen for cluster headaches.
-- **Print out the guideline.** Search for "American Headache Society cluster headache treatment guidelines 2016" and "EAN cluster headache guideline 2023" — both are freely available online. A printed summary can be more persuasive than a verbal conversation.
-- **Switch doctors if necessary.** This sounds drastic, but patients report that it is sometimes the fastest path. A doctor who dismisses guideline-endorsed treatment for a condition this painful may not be the right doctor for you.
-
-## "Insurance won't cover it"
-
-This is one of the most common — and most frustrating — things patients hear. The reality is more nuanced than "insurance won't cover it."
-
-### In the United States
-
-Medicare coverage for home oxygen for cluster headaches has improved significantly. In 2021, the previous restriction requiring enrollment in clinical trials was removed. Coverage now varies by region, but the door is open.
-
-For private insurance: many plans do cover home oxygen for cluster headache, especially with documentation of medical necessity. Key steps:
-
-- **Ask your doctor to document the diagnosis clearly** — using the correct ICD-10 diagnostic codes (G44.009 for cluster headache, unspecified, or G44.019 for episodic cluster headache). ICD-10 codes are the standard codes doctors use to record diagnoses for insurance purposes — you can mention these to your doctor to make sure the right code appears on your paperwork.
-- **Call your insurer directly.** Don't rely on your doctor's office or supplier to check coverage on your behalf. Call the number on your insurance card and ask: "Is home oxygen therapy covered for cluster headache?"
-- **If denied, appeal.** Attach the AHS guideline and the 2009 *JAMA* trial. Many initial denials are overturned on appeal.
-- **Ask your doctor to do a peer-to-peer review.** This is a phone call between your doctor and the insurance company's medical reviewer. It's often more effective than paper appeals.
-- **Contact your state insurance commissioner** if appeals fail. In some states, patient advocates can help.
-
-### In the United Kingdom
-
-Oxygen for cluster headaches is available through the NHS. The process:
-
-1. Get diagnosed by a neurologist or headache specialist.
-2. Your GP fills out a **Home Oxygen Order Form (HOOF)** — cluster headache is explicitly listed as a qualifying condition on this form. You may need to bring a letter from your neurologist; ask your neurologist's office to send one to your GP.
-3. A brief safety assessment is conducted (fire risk, smoking status).
-4. The oxygen supplier (typically BOC or Baywater) contacts you and delivers the equipment to your home.
-
-If your GP hesitates, point them to the **HOOF form itself** (which lists cluster headache), the **BNF** (British National Formulary) entry for oxygen in cluster headache, or the **NICE CG150 guideline**.
-
-Wherever you are: call your insurer or healthcare system directly and ask. Persistence pays off.
-
-## If you can't get a prescription
-
-If you've exhausted the official routes — or if you're in a country where medical oxygen is difficult to access — there are alternatives. These are last-resort options, not first choices.
-
-### Paying out of pocket
-
-If your insurance won't cover oxygen or the process is too slow, you can often get medical oxygen by paying out of pocket. Contact a durable medical equipment (DME) supplier directly — these are companies that deliver medical equipment like oxygen tanks to your home. You'll still need a prescription, but the process is faster when insurance isn't involved. Costs vary but expect to pay for tank rental and refills.
-
-### Welding oxygen
-
-Welding-grade oxygen is chemically identical to medical-grade oxygen — it's the same O₂ molecule. The difference is regulatory: medical oxygen is produced and stored under stricter quality controls. In practice, contamination is rare — potential contaminants include trace moisture, oils, or particles from previous tank contents, which in the worst case could cause respiratory irritation.
-
-If you go this route, use a dedicated tank that has only been filled with oxygen, buy a proper CGA 540 oxygen regulator (CGA 540 is the standard connector type for oxygen tanks in the US — it ensures your regulator fits your tank), and buy from a reputable welding supply shop.
-
-### Oxygen concentrators
-
-Home concentrators extract oxygen from room air and don't require a prescription in many countries. A concentrator won't deliver ideal flow rates, but partial relief is better than none. See the [equipment page](04-equipment.md#oxygen-concentrators) for details on their limitations.
+- **Ask for a referral to a neurologist or headache specialist.** A GP who won't prescribe a Level A, guideline-recommended treatment may simply be outside their comfort zone. A specialist almost always will.
+- **Bring the printed guidelines.** Search for "American Headache Society cluster headache guidelines" and "EAN cluster headache guideline 2023" — both are freely available. Printed guidelines are often more persuasive than a verbal request.
+- **Switch doctors.** This is drastic, but patients consistently report it is sometimes the fastest path. A doctor who dismisses a well-established treatment for a condition this painful is not serving you well.
 
 ---
 
-*← [How oxygen works](02-how-oxygen-works.md) | [What you need →](04-equipment.md)*
+## Insurance and coverage
+
+The system around the prescription is usually harder than the prescription itself.
+
+### United States
+
+**Medicare** coverage for home oxygen for cluster headache improved significantly in 2021, when the previous restriction requiring enrollment in a clinical trial was lifted. Coverage now varies by regional contractor, but the door is open.
+
+**Private insurance:** many plans cover home oxygen for cluster headache with documentation of medical necessity. Practical steps:
+
+- **Check the ICD-10 code on your diagnosis.** Cluster headache codes are G44.001 (episodic, intractable), G44.009 (episodic, not intractable), G44.011 (chronic, intractable), and G44.019 (chronic, not intractable). The right code on the paperwork matters.
+- **Call your insurer directly.** Don't rely on the doctor's office or supplier to verify coverage. Call the number on your card and ask: "Is home oxygen therapy covered for cluster headache (ICD-10 G44.0)?"
+- **If denied, appeal.** Include the AHS guideline, the EAN 2023 guideline, and the 2009 JAMA trial. Initial denials are frequently overturned on appeal.
+- **Ask your doctor to do a peer-to-peer review.** A phone call between your doctor and the insurer's medical reviewer is often more effective than written appeals.
+- **Escalate to your state insurance commissioner** if standard appeals fail.
+
+### United Kingdom
+
+Oxygen for cluster headache is available through the NHS. The process:
+
+1. Get diagnosed by a neurologist or headache specialist.
+2. Your GP completes a **Home Oxygen Order Form (HOOF)** — cluster headache is explicitly listed as a qualifying condition.
+3. A brief home safety assessment (fire risk, smoking status).
+4. The NHS oxygen supplier (typically BOC or Baywater, depending on your region) delivers the equipment.
+
+If your GP hesitates, point them to the HOOF form (which lists cluster headache), the British National Formulary entry for oxygen, and NICE guidance. Demand valves are available on the NHS for chronic cluster headache patients; episodic patients can typically rent one from BOC.
+
+### Elsewhere
+
+Most European and Commonwealth countries cover oxygen for cluster headache through their national systems, but the process varies. The general shape is the same: diagnosis from a specialist → prescription → supplier assignment. Ask your neurologist's office who handles medical oxygen in your region, and whether they've prescribed it for cluster headache before.
+
+If your country makes medical oxygen genuinely inaccessible, [welding oxygen](08-welding-oxygen.md) is a well-established alternative used by a sizable share of patients worldwide.
+
+---
+
+## Working with suppliers
+
+Once the prescription is written, it's routed to an oxygen supplier — a **durable medical equipment (DME)** company in the US, the NHS contractor in the UK, or a regional equivalent elsewhere. You can usually choose between suppliers; some are noticeably better than others.
+
+**What to ask a supplier before you commit:**
+
+- "Do you carry regulators that go to 25 L/min or higher?" If the answer is no, pick a different supplier or plan to buy your own regulator separately.
+- "Can you deliver a demand valve?" (More likely in the UK and at larger US suppliers.)
+- "What's your emergency or weekend refill process?" Cluster cycles don't stop on Friday at 5pm.
+- "How often will you refill cylinders during an active cycle?" Some suppliers cap delivery frequency in ways that don't match cluster usage.
+
+**Common supplier problems and how to handle them:**
+
+- **They try to send an 8 L/min regulator** (designed for COPD patients). Decline. Insist on ≥25 L/min, or buy your own — a high-flow oxygen regulator runs $30–80 online and is a one-time cost.
+- **They try to substitute a concentrator** for cylinders. Politely decline. Your prescription specifies compressed gas. If they push back, have your doctor call them.
+- **Refill delays during a cycle.** Always keep at least one full backup cylinder. Track your usage and call for refills before the primary runs low, not after. Ask about larger cylinder sizes if the refill cadence can't keep up.
+
+---
+
+## Medical equipment details
+
+Your supplier delivers three things (sometimes four): a cylinder, a regulator, a delivery device (mask or demand valve), and tubing. You can influence what arrives by knowing what good looks like.
+
+### Cylinders
+
+Medical oxygen in most countries is delivered as compressed gas in steel or aluminum cylinders. Standard sizes:
+
+| Size | Height | Weight (full) | Capacity | Duration at 25 L/min | Typical role |
+|---|---|---|---|---|---|
+| **E** | ~75 cm / 30″ | ~8 kg / 18 lb | ~680 L | ~27 min | Portable / car / backup |
+| **M** | ~120 cm / 47″ | ~14 kg / 30 lb | ~3,000 L | ~2 hr | Primary home cylinder |
+| **H / K** | ~140 cm / 55″ | ~60 kg / 135 lb | ~6,900 L | ~4.5 hr | Heavy-use / fewer refills |
+
+![Comparison of E, M, and H/K medical oxygen cylinder sizes with a person for scale](images/illustration-cylinder-size-comparison.jpg)
+*The E size is portable; M is the usual home size; H/K holds much more but is heavy and typically wheeled on a cart.*
+
+**Recommendations:**
+
+- **Keep at least two cylinders.** Running out of oxygen mid-attack is one of the worst experiences patients describe. A full backup is non-negotiable.
+- **Start with M for home + E for portable/car backup.** Upgrade to H/K if refill cadence becomes a problem during cycles.
+- **Track your usage** so you can schedule refills before you're on the last cylinder.
+
+### Regulators
+
+The regulator bolts onto the cylinder valve and controls flow rate. This is where the single most common supplier error happens: they deliver a low-flow (≤8 L/min) regulator designed for COPD and call it done.
+
+What to insist on:
+
+- **Flow range to at least 25 L/min.** Preferably higher. A 40 L/min or ultra-high-flow regulator is worth asking for.
+- **Outlet that matches your delivery device.** A barb outlet for standard tubing-to-mask setups; a DISS outlet for most demand valves. If you're planning to use a demand valve, confirm the regulator has a DISS outlet or that you have an adapter.
+
+If the supplier can't provide a high-flow regulator, you can buy one directly. A 0–25 L/min medical regulator runs $30–80; ultra-high-flow models cost more. This is a one-time purchase that routinely makes the difference between oxygen working and oxygen "not working."
+
+![Comparison of a standard low-flow medical regulator and a high-flow/ultra-high-flow regulator](images/illustration-regulators-comparison.jpg)
+*A low-flow regulator (left) is designed for COPD and caps out too low. A high-flow regulator (right) gives you the headroom cluster aborts actually need.*
+
+### Delivery device
+
+Three valid options, in rough order of effectiveness:
+
+- **Demand valve.** Delivers 100% oxygen on demand, matched to your inhalation. No waste between breaths, no dilution. Supports the fastest breathing you can produce. In the Petersen 2017 trial, demand valves halved the need for rescue medication compared to a standard mask. **Recommended if available.** Can be used with either a sealed mask or a mouthpiece.
+- **Non-rebreather mask (NRM) with reservoir bag.** The standard. Delivers 80–90% oxygen at 15 L/min; higher flow and taping the side vents shut brings it closer to 90%+. Cheap, widely available, disposable.
+- **ClusterO2 kit** (and similar cluster-specific kits). A mask or mouthpiece designed to give a proper seal with a reservoir bag — no side vents to tape. Better than a basic NRM for most patients; an order of magnitude cheaper than a demand valve.
+
+A basic face mask (no reservoir bag) or a nasal cannula is not an acceptable delivery device for cluster aborts.
+
+---
+
+## If you can't get a prescription
+
+If insurance and supplier routes fail — or your region makes medical oxygen genuinely hard to access — there are alternatives:
+
+- **Pay out of pocket for medical oxygen.** A DME supplier will usually deliver to a self-pay patient once a prescription is on file; the process is often faster than insurance coverage. Monthly cost runs $200–400 in the US.
+- **Welding oxygen.** The same O₂ molecule, sold without a prescription at welding supply shops, at a fraction of the medical cost. A well-researched option used by a sizable share of patients, with the same safety considerations as medical oxygen. See the dedicated page: **[Welding oxygen: a practical alternative](08-welding-oxygen.md)**.
+- **Oxygen concentrators** do not require a prescription in many countries. They can't match compressed-gas flow rates and are not adequate as a primary setup — but partial flow is better than nothing, and some patients use one as a backup.
+
+---
+
+*Next: [Aborting an attack with oxygen](02-aborting-with-oxygen.md) · [Welding oxygen alternative](08-welding-oxygen.md) · [FAQ](04-faq.md)*

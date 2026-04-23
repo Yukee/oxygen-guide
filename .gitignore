@@ -3,3 +3,4 @@ feedback*
 !website/**/*.html
 !website/*.html
 **DS_Store
+**.playwright-mcp

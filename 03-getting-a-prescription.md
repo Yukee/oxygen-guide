@@ -116,52 +116,16 @@ Once the prescription is written, it's routed to an oxygen supplier — a **dura
 
 ---
 
-## Medical equipment details
+## Equipment: what to insist on
 
-Your supplier delivers three things (sometimes four): a cylinder, a regulator, a delivery device (mask or demand valve), and tubing. You can influence what arrives by knowing what good looks like.
+Your supplier delivers three things (sometimes four): a cylinder, a regulator, a delivery device (mask or demand valve), and tubing. What to insist on:
 
-### Cylinders
+- **A regulator that goes to at least 25 L/min.** Decline an 8 L/min (COPD) regulator. If the supplier can't provide a high-flow one, you can buy one online for $30–80.
+- **Compressed gas cylinders, not a concentrator.** Most concentrators max out around 5–10 L/min and can't reach abort flow rates.
+- **A demand valve if it's available on your plan** (more likely on the NHS and at larger US suppliers). A ClusterO2 kit or non-rebreather mask is a reasonable fallback.
+- **An outlet on the regulator that matches your delivery device** — barb for standard tubing-to-mask setups, DISS for most demand valves.
 
-Medical oxygen in most countries is delivered as compressed gas in steel or aluminum cylinders. Standard sizes:
-
-| Size | Height | Weight (full) | Capacity | Duration at 25 L/min | Typical role |
-|---|---|---|---|---|---|
-| **E** | ~75 cm / 30″ | ~8 kg / 18 lb | ~680 L | ~27 min | Portable / car / backup |
-| **M** | ~120 cm / 47″ | ~14 kg / 30 lb | ~3,000 L | ~2 hr | Primary home cylinder |
-| **H / K** | ~140 cm / 55″ | ~60 kg / 135 lb | ~6,900 L | ~4.5 hr | Heavy-use / fewer refills |
-
-![Comparison of E, M, and H/K medical oxygen cylinder sizes with a person for scale](images/illustration-cylinder-size-comparison.jpg)
-*The E size is portable; M is the usual home size; H/K holds much more but is heavy and typically wheeled on a cart.*
-
-**Recommendations:**
-
-- **Keep at least two cylinders.** Running out of oxygen mid-attack is one of the worst experiences patients describe. A full backup is non-negotiable.
-- **Start with M for home + E for portable/car backup.** Upgrade to H/K if refill cadence becomes a problem during cycles.
-- **Track your usage** so you can schedule refills before you're on the last cylinder.
-
-### Regulators
-
-The regulator bolts onto the cylinder valve and controls flow rate. This is where the single most common supplier error happens: they deliver a low-flow (≤8 L/min) regulator designed for COPD and call it done.
-
-What to insist on:
-
-- **Flow range to at least 25 L/min.** Preferably higher. A 40 L/min or ultra-high-flow regulator is worth asking for.
-- **Outlet that matches your delivery device.** A barb outlet for standard tubing-to-mask setups; a DISS outlet for most demand valves. If you're planning to use a demand valve, confirm the regulator has a DISS outlet or that you have an adapter.
-
-If the supplier can't provide a high-flow regulator, you can buy one directly. A 0–25 L/min medical regulator runs $30–80; ultra-high-flow models cost more. This is a one-time purchase that routinely makes the difference between oxygen working and oxygen "not working."
-
-![Comparison of a standard low-flow medical regulator and a high-flow/ultra-high-flow regulator](images/illustration-regulators-comparison.jpg)
-*A low-flow regulator (left) is designed for COPD and caps out too low. A high-flow regulator (right) gives you the headroom cluster aborts actually need.*
-
-### Delivery device
-
-Three valid options, in rough order of effectiveness:
-
-- **Demand valve.** Delivers 100% oxygen on demand, matched to your inhalation. No waste between breaths, no dilution. Supports the fastest breathing you can produce. In the Petersen 2017 trial, demand valves halved the need for rescue medication compared to a standard mask. **Recommended if available.** Can be used with either a sealed mask or a mouthpiece.
-- **Non-rebreather mask (NRM) with reservoir bag.** The standard. Delivers 80–90% oxygen at 15 L/min; higher flow and taping the side vents shut brings it closer to 90%+. Cheap, widely available, disposable.
-- **ClusterO2 kit** (and similar cluster-specific kits). A mask or mouthpiece designed to give a proper seal with a reservoir bag — no side vents to tape. Better than a basic NRM for most patients; an order of magnitude cheaper than a demand valve.
-
-A basic face mask (no reservoir bag) or a nasal cannula is not an acceptable delivery device for cluster aborts.
+For detail on each piece of equipment — how demand valves, masks, regulators, and cylinders actually work and which differences matter — see the **[Equipment chapter](05-equipment.md)**.
 
 ---
 
@@ -175,4 +139,4 @@ If insurance and supplier routes fail — or your region makes medical oxygen ge
 
 ---
 
-*Next: [Aborting an attack with oxygen](02-aborting-with-oxygen.md) · [Welding oxygen alternative](08-welding-oxygen.md) · [FAQ](04-faq.md)*
+*Next: [Equipment](05-equipment.md) · [Aborting an attack with oxygen](02-aborting-with-oxygen.md) · [Welding oxygen alternative](08-welding-oxygen.md) · [FAQ](04-faq.md)*

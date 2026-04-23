@@ -4,15 +4,44 @@
 
 High-flow oxygen is the safest legal treatment for a cluster headache attack. In controlled trials, about four out of five responders stop an attack within 15 minutes of starting, without drug side effects and without rebound headaches. Many patients report stopping attacks with oxygen in less than 10 minutes. It is recognized as first-line acute treatment by the American Headache Society (Level A) and the European Academy of Neurology.
 
-But oxygen is unusual among medical treatments: how quickly it works, and whether it works all, depends heavily on *how you use it*. Finding the equipment, setting and technique that work for you can be a real challenge. This guide exists to help you with that.
+But oxygen is unusual among medical treatments: how quickly it works, and whether it works at all, depends heavily on *how you use it*. Finding the equipment, setting and technique that work for you can be a real challenge. This guide exists to help you with that.
 
 > "I and others who have been here long enough have learned that when someone says they tried oxygen and it didn't work [...] it is very, very likely that their use of oxygen was far from optimized, and it might very well be worth trying again. [...] Many, many folks who thought O2 didn't work for them have found that it works fine when done 'right.'"
 >
-> — CHfather, longtime [ClusterBusters forum](https://clusterbusters.org/forums/) moderator
+> — [CHfather](https://clusterbusters.org/forums/topic/29051-cluster-relief-in-past/#comment-113761), longtime [ClusterBusters forum](https://clusterbusters.org/forums/) moderator
 
-## The single most important thing
+## Two things determine whether oxygen works for you
 
-Before anything else: **the technique is deep, effortful breathing, repeated in quick succession**. You inhale as deeply as you can, exhale completely, and repeat as fast as your body allows. This is physical work. Done right, it flushes your lungs with pure oxygen on every breath.
+Most patients who say oxygen didn't work for them ran into one of two problems. Both are solvable, and helping you solve them is what this guide is for.
+
+1. **Getting the right equipment in your hands.** A nasal cannula or oxygen concentrator will not abort a cluster attack. You will also struggle with a low-flow regulator capped at 15 liters per minute (LPM). You need high flow rates (ideally at least 25 LPM) through a delivery device that gives you close to 100% oxygen on every breath. Getting this through the medical system means a prescription many doctors don't know how to write, filled by a supplier who may try to substitute the wrong thing. A sizable minority of patients skip that fight and use welding oxygen instead.
+2. **Finding the right technique.** Even with perfect equipment, you need to find the right technique. Many patients report success with deep, effortful breathing, repeated in quick succession: you inhale as deeply as you can, exhale completely, repeat as fast as your body allows. This is physical work, and done right it flushes your lungs with pure oxygen on every breath.
+
+Neither pillar is optional. The rest of this guide walks through both.
+
+## Getting the equipment
+
+Getting set up is where many patients get stuck, for two reasons.
+
+The first is the equipment itself. The choices can feel overwhelming: which breathing device (demand valve, non-rebreather mask, mouthpiece with reservoir bag?), which regulator and at what flow rate, what size cylinder and how many of them. The **[Equipment chapter](05-equipment.md)** walks through each of those decisions and tells you what to ask for — it applies whether you go the medical or the welding route.
+
+The second is the system around the equipment:
+
+- Many general practitioners who have never prescribed it, are skeptical or don't know the correct protocol.
+- Prescriptions that come back written at too-low flow rates or for the wrong delivery device.
+- Insurance denials, which happen even with a correct prescription and a well-documented diagnosis.
+- Suppliers delivering the wrong regulator or substituting a concentrator.
+
+Expect seting up the oxygen to take persistence, possibly multiple apointments and phone calls, and sometimes switching doctors or suppliers.
+
+There are two paths to a working setup:
+
+- **[Getting a prescription](03-getting-a-prescription.md)**. The corresponding [guide chapter](03-getting-a-prescription.md) details what the prescription must say, how to talk to a skeptical doctor, insurance, suppliers, and what equipment to insist on.
+- **[Welding oxygen](08-welding-oxygen.md)**. An alternative used by a sizable share of patients when the medical route is blocked or too slow. No prescription, quick and easy to get. Welding cylinders contain >99% pure oxygen, exactly like medical-grade ones. The [welding oxygen chapter](08-welding-oxygen.md) describes the practice and the setup, so that you can make an informed choice.
+
+## Using it well
+
+Once you have a working setup, the single biggest determinant of whether an attack aborts is how you breathe. The technique is counterintuitive for anyone used to thinking of oxygen as "just breathe it in": you inhale as deeply as you can, exhale completely, and repeat as fast as your body allows. This is physical work.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/For8ng6cKk0" title="Demonstration of cluster headache oxygen breathing technique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -21,28 +50,12 @@ Before anything else: **the technique is deep, effortful breathing, repeated in 
 ![Two panels showing the breathing technique on a demand valve with reservoir bag: left panel "Inhale fully" shows the bag emptying as the user draws a deep breath through the mouthpiece; right panel "Exhale fully" shows the mouthpiece lowered as the user pushes all the air out. An arrow between the panels reads "repeat as fast as possible."](images/illustration-breathing-technique-hero.jpg)
 *Inhale fully, exhale fully, repeat as fast as you can — the same cycle applies whether you're breathing through a mouthpiece or a sealed mask.*
 
-## How oxygen works on a cluster attack
-
-Cluster attacks involve the trigeminal-autonomic reflex: a circuit that links trigeminal pain signals to the parasympathetic nervous system, producing the one-sided tearing, congestion, and drooping eyelid along with the pain. High-flow oxygen appears to suppress this circuit, likely by reducing the release of CGRP and related neuropeptides that drive the attack. The result: within minutes, the attack shuts down.
-
-The catch is **dose**. Room air is 21% oxygen. A nasal cannula at 2–4 L/min barely raises that. A standard non-rebreather mask at 15 L/min gets you to roughly 80–90%. A demand valve, or ultra-high flow through a well-sealed setup, approaches 100%. The higher the inhaled fraction, the more reliably an attack aborts. This is why "I tried oxygen and it didn't work" very often turns out to be an equipment or flow problem, not a treatment problem.
-
-The foundational evidence is a 2009 JAMA randomized trial (Cohen et al.): 78% of attacks treated with 100% oxygen at 12 L/min were pain-free at 15 minutes, compared with 20% on sham air. Newer studies and guideline reviews have consistently replicated the effect. Higher flow rates and demand-valve delivery improve those numbers further.
-
-## Expect friction
-
-Most patients who struggle with oxygen don't struggle with the oxygen itself. They struggle with the system around it:
-
-- Many general practitioners have never prescribed it and don't know the correct protocol.
-- Prescriptions routinely come back written at too-low flow rates or for the wrong delivery device (nasal cannula, concentrator, or pulse-dose — none of which work for cluster aborts).
-- Insurance denials are common, even with a correct prescription and a well-documented diagnosis.
-- Suppliers sometimes deliver the wrong regulator or substitute a concentrator.
-
-None of this is a reason you can't have effective oxygen therapy. It is a reason to expect that getting it set up will take persistence, possibly multiple phone calls, and sometimes switching doctors or suppliers. The patients who get the best results are usually the ones who kept pushing.
+The full procedure — when to start, what flow rate to set, when to stop, what to adjust if it's not working — is in **[Aborting an attack with oxygen](02-aborting-with-oxygen.md)**.
 
 ## The rest of this guide
 
 - **[Aborting an attack with oxygen](02-aborting-with-oxygen.md)** — the technique, the procedure, and what to adjust for your specific setup.
+- **[Equipment](05-equipment.md)** — breathing devices, regulators, cylinders, assembly, and home safety. Applies to both routes.
 - **[Getting a prescription](03-getting-a-prescription.md)** — what the prescription must say, how to talk to a skeptical doctor, insurance, suppliers, and what equipment to insist on.
 - **[If you can't get a prescription: welding oxygen](08-welding-oxygen.md)** — a fully-researched alternative used by a sizable share of patients. Same gas, no prescription, lower cost.
 - **[FAQ](04-faq.md)** — daily use safety, combining oxygen with other treatments, travel, nocturnal attacks, oxygen concentrators, and common troubleshooting.

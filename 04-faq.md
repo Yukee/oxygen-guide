@@ -51,7 +51,7 @@ Depends on size and flow rate. Quick reference at **25 L/min**:
 - **M** (home standard, ~3,000 L): ~2 hours — about 6 aborts.
 - **H / K** (large home, ~6,900 L): ~4.5 hours — about 13 aborts.
 
-At 15 L/min these numbers are longer; at ultra-high flow they're shorter. Read your regulator's pressure gauge: a full medical cylinder is typically around 2,000 PSI. Call for a refill when it drops below ~500 PSI. For welding cylinders, see the [welding page](08-welding-oxygen.md#step-2-choose-a-cylinder-size).
+At 15 L/min these numbers are longer; at ultra-high flow they're shorter. Read your regulator's pressure gauge: a full medical cylinder is typically around 2,000 PSI. Call for a refill when it drops below ~500 PSI. For the full medical-cylinder table and how to read the gauge, see **[Equipment § Cylinders](05-equipment.md#cylinders)**. For welding cylinder sizes in cubic feet, see the [welding page](08-welding-oxygen.md#step-2-choose-a-cylinder-size).
 
 ### Demand valve or reservoir-bag mask — which should I get?
 
@@ -130,4 +130,4 @@ Nocturnal attacks are extremely common — many patients report their worst atta
 
 ---
 
-*Back to: [Guide home](01-index.md) · [Aborting with oxygen](02-aborting-with-oxygen.md) · [Getting a prescription](03-getting-a-prescription.md) · [Welding oxygen](08-welding-oxygen.md)*
+*Back to: [Guide home](01-index.md) · [Aborting with oxygen](02-aborting-with-oxygen.md) · [Equipment](05-equipment.md) · [Getting a prescription](03-getting-a-prescription.md) · [Welding oxygen](08-welding-oxygen.md)*

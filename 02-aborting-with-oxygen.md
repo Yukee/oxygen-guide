@@ -73,16 +73,8 @@ If you don't have access to a high LPM setup, or need to preserve your oxygen, h
 
 ## Safety at home
 
-These rules apply to every oxygen setup, medical or welding:
-
-- **No smoking** near the cylinder or while wearing the mask.
-- **No open flames or sparks** nearby.
-- **No oil or grease** on the valve, regulator, or fittings. Some lubricants are flammable, and high-pressure oxygen makes combustion violent.
-- **Store the cylinder upright, secured.** A falling full cylinder can shear off its valve and become a projectile or a rapid leak.
-- **Close the valve after every use.** Don't leave the cylinder open relying on the regulator to hold back flow.
-- **Keep the valve cap on during transport.**
-- **Ventilate.** A normal room is fine; don't use it in a tiny sealed closet.
+Fire-safety rules (no smoking, no oil or grease on fittings, secured upright cylinder, valve closed after every use) apply to every oxygen setup, medical or welding. See [Equipment § Safety at home](05-equipment.md#safety-at-home) for the full list.
 
 ---
 
-*Next: [Getting a prescription](03-getting-a-prescription.md) · [If you can't get a prescription: welding oxygen](08-welding-oxygen.md) · [FAQ](04-faq.md)*
+*Next: [Equipment](05-equipment.md) · [Getting a prescription](03-getting-a-prescription.md) · [If you can't get a prescription: welding oxygen](08-welding-oxygen.md) · [FAQ](04-faq.md)*

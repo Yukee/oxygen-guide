@@ -64,11 +64,11 @@ You'll need to either **rent** a cylinder or **buy one outright**. Some location
 
 > If one location gives you trouble, try another. Farm supply stores and small independent welding shops are often more flexible than corporate branches.
 
-### Step 2: Choose a cylinder size
+### Step 2: Choose your cylinder(s)
 
 Welding cylinders are sold by their capacity in **cubic feet (cf)**; you'd ask for a "size 80" or a "size 125" at the counter.
 
-**Get the largest cylinder you can realistically carry to your home.** A bigger cylinder means fewer refill trips and less chance of running out mid-cycle. The decision comes down to what you can physically handle: can you carry it up stairs? Does it fit in your car? An 80 cf cylinder weighs about 56 lbs (25 kg) and is manageable for most people. A 125 cf weighs about 75 lbs (34 kg). A 200 cf weighs about 128 lbs (58 kg) and needs a hand truck or cylinder cart.
+**Get the largest cylinder you can realistically carry to your home.** A bigger cylinder means fewer refill trips and less chance of running out mid-cycle. The decision comes down to what you can physically handle: can you carry it up stairs? Does it fit in your car? See the table below for the dimensions and weight of common cylinders.
 
 **Keep at least two cylinders.** You want to avoid running out of oxygen during a cluster cycle. Many patients keep one large cylinder at home and a smaller portable one (40 or 60 cf).
 
@@ -132,7 +132,7 @@ Practical wisdom from patients who've been through this:
 
 4. **Check regularly that your oxygen setup works**. The last thing you want is a seal blowing out during an attack. Consider having spare parts in case something breaks.
 
-5. **Wash the breathing equipment (mask, mouthpiece or demand valve) in warm water with soap** every once in a while. This prevents dirt from acumulating and potentially messing up with the system.
+5. **Wash the breathing equipment (mask, mouthpiece or demand valve) in warm water with soap** every once in a while. This prevents dirt from accumulating and potentially messing up with the system.
 
 ---
 

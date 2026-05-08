@@ -20,7 +20,7 @@ Guide sections are written as markdown files in the project root. Key skills:
 - Images go in `images/` directory, named `illustration-<descriptive-name>.jpg`
 - Image references in markdown: `![Alt text](images/filename.jpg)` followed by `*Caption text*` on the next line
 - Markdown files link to each other with `.md` extensions (converted to `.html` by the generate-html skill)
-- Typography: use proper em dashes (—), en dashes (–), smart quotes, and degree symbols (°)
+- Em dashes (—) are not used, as they are too LLM-coded
 
 ## Editorial Agents
 
